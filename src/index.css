@@ -138,6 +138,7 @@ body {
 .pizza span {
   display: block;
   font-size: 1.6rem;
+  margin-top: 4rem;
 }
 
 .pizza.sold-out {
